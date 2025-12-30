@@ -718,7 +718,7 @@ const OSQuiz = () => {
       <div className="max-w-4xl">
         <div className="bg-white rounded-lg shadow-xl p-6 mb-6">
           <h1 className="text-3xl font-bold text-center text-indigo-900 mb-2">Operating Systems Quiz</h1>
-          <p className="text-center text-gray-600 mb-4">100 سؤال - اختبر معلوماتك في نظم التشغيل</p>
+          <p className="text-center text-gray-600 mb-4">100 سؤال - اختبر معلوماتك في أنظمة التشغيل</p>
           
           <div className="bg-indigo-100 rounded-lg p-4 mb-6">
             <div className="flex justify-between items-center">
