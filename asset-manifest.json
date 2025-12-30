@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/os-quiz/static/css/main.476fb348.css",
-    "main.js": "/os-quiz/static/js/main.5071231f.js",
-    "static/js/453.80d642fb.chunk.js": "/os-quiz/static/js/453.80d642fb.chunk.js",
-    "index.html": "/os-quiz/index.html",
-    "main.476fb348.css.map": "/os-quiz/static/css/main.476fb348.css.map",
-    "main.5071231f.js.map": "/os-quiz/static/js/main.5071231f.js.map",
-    "453.80d642fb.chunk.js.map": "/os-quiz/static/js/453.80d642fb.chunk.js.map"
+    "main.css": "/TestBank_1_2/static/css/main.476fb348.css",
+    "main.js": "/TestBank_1_2/static/js/main.c6439284.js",
+    "static/js/453.80d642fb.chunk.js": "/TestBank_1_2/static/js/453.80d642fb.chunk.js",
+    "index.html": "/TestBank_1_2/index.html",
+    "main.476fb348.css.map": "/TestBank_1_2/static/css/main.476fb348.css.map",
+    "main.c6439284.js.map": "/TestBank_1_2/static/js/main.c6439284.js.map",
+    "453.80d642fb.chunk.js.map": "/TestBank_1_2/static/js/453.80d642fb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.476fb348.css",
-    "static/js/main.5071231f.js"
+    "static/js/main.c6439284.js"
   ]
 }
